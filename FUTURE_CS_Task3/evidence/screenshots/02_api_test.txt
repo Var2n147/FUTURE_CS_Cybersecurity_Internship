@@ -1,0 +1,14 @@
+============================================================
+FUTURE INTERNS - TASK 3
+API SECURITY RISK ANALYSIS
+============================================================
+
+TEST 02 - GET /users/1
+
+Testing Method: Safe read-only HTTP GET request
+Target: JSONPlaceholder public demonstration API
+
+============================================================
+CAPTURED HTTP RESPONSE
+============================================================
+
