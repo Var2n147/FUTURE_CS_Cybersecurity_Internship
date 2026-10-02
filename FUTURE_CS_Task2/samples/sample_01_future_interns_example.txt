@@ -1,0 +1,26 @@
+TASK 2 – PHISHING EMAIL SAMPLE 01
+Source: Future Interns Task Description
+Type: Controlled Educational Example
+
+Subject: Urgent: Your Account Will Be Locked
+
+From: Security Team <security@example.com>
+
+Dear User,
+
+We noticed suspicious activity on your account.
+To avoid account suspension, please verify your details immediately.
+
+Verify Now:
+http://secure-account-verify[.]com
+
+Failure to verify within 24 hours will result in permanent account lock.
+
+Regards,
+Security Team
+
+
+NOTE:
+This sample is an educational example provided in the Future Interns
+task description. The URL has been defanged using [.] and is not intended
+to be opened.

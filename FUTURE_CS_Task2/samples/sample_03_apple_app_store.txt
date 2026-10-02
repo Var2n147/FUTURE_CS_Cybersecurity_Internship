@@ -1,0 +1,31 @@
+TASK 2 – PHISHING EMAIL SAMPLE 03
+
+Sample ID:
+FUTURE-CS-T2-003
+
+Source:
+SeanWrightSec/phishing-examples
+Public educational phishing example
+
+Category:
+Brand impersonation / purchase notification
+
+Claimed Brand:
+Apple / App Store
+
+Message Theme:
+The recipient receives a message concerning an App Store purchase and is
+encouraged to interact with an attached PDF.
+
+Suspicious Element:
+The message uses brand impersonation and an unexpected attachment to
+encourage the recipient to investigate a supposed transaction.
+
+IMPORTANT:
+This is a sanitized description of a publicly documented phishing
+example. Original third-party content has not been copied into this
+repository.
+
+Attachment Safety:
+The original attachment is not downloaded or opened as part of this
+analysis.
